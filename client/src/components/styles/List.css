@@ -1,0 +1,24 @@
+.list-card {
+  width: 500px;
+}
+
+.list-card-supporting {
+  padding: 0px 0px;
+  width: 100%;
+}
+
+.list-table {
+  width: 100%;
+}
+
+.new-item-block {
+  background: rgba(255,255,255,0.9);
+  width: 100%;
+  height: 125px;
+}
+
+.new-item-input {
+  align: center;
+  padding: 0px 0px;
+  margin: 5px 5px;
+}
